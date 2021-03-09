@@ -1,3 +1,24 @@
 # ToDolist
-ToDo Application 
-https://stark-taiga-08258.herokuapp.com/ - is a link where you can find the downloaded application which is connected with MongoBD (https://cloud.mongodb.com/)
+## Что из себя представляет приложение? 
+
+https://stark-taiga-08258.herokuapp.com/ - Ссылка готового приложения 
+ 
+![image](https://user-images.githubusercontent.com/76592268/110426403-18e58e80-80b7-11eb-99b9-fce520f2559f.png)
+
+Представлено из Заголовка, строчки ввода данных, кнопки добавления данных "+", а также после выполнения того или иного пункта вы можете удалить данный пункт, нажав на квадрат слева от задания. 
+ 
+ Вы можете добавить перейти на любую страницу ввода данных страницу, используя в конце ссылки "/'слово'". Например, вы хотите добавить "Домашние" дела:
+ ![image](https://user-images.githubusercontent.com/76592268/110426919-f86a0400-80b7-11eb-9a74-7bf71cff9be8.png)
+ 
+Или записать дела в школе:
+
+![image](https://user-images.githubusercontent.com/76592268/110427018-264f4880-80b8-11eb-8c61-61758225289b.png)
+
+Либо же сделать секретный путь на список задач, который знаете только вы:
+
+![image](https://user-images.githubusercontent.com/76592268/110427126-50086f80-80b8-11eb-8fa5-f373d1ae77a7.png)
+
+
+ Само приложение располагается на https://dashboard.heroku.com/
+ База данных, подключённая для массивов ввода данных располагаются на MongoBD:  (https://cloud.mongodb.com/)
+ 
