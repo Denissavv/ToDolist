@@ -17,7 +17,8 @@ https://stark-taiga-08258.herokuapp.com/ - Ссылка готового при�
 
 Либо же сделать секретный путь на список задач, который знаете только вы:
 
-![image](https://user-images.githubusercontent.com/76592268/110427126-50086f80-80b8-11eb-8fa5-f373d1ae77a7.png)
+![image](https://user-images.githubusercontent.com/76592268/110430414-69f88100-80bd-11eb-99ee-b0d0c71c57d8.png)
+
 
 
  Само приложение располагается на https://dashboard.heroku.com/
